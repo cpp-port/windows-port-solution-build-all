@@ -1,0 +1,8 @@
+[submodule "operating_system"]
+	path = operating_system
+	url = ../../ca2/windows-operating_system
+	branch = main
+[submodule "port"]
+	path = port
+	url = ../../ca2/windows-build-port-all
+	branch = main
